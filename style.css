@@ -1,0 +1,35 @@
+body{
+   text-align: center;
+}
+#fastfood{
+   height: 700px;
+   width: 100%;
+   background-color:#3cbdb0;
+}
+#indiancuisine{
+   height: 750px;
+   width: 100%;
+   background-color:antiquewhite;
+}
+#americancuisine{
+   height: 750px;
+   width: 100%;
+   background-color:azure;
+}
+#dessert{
+   height: 750px;
+   width: 100%;
+   background-color:azure;
+}
+.line{
+   height: 8px;
+   width: 80px;
+   background-color: darkgoldenrod;
+   margin: 10px auto;
+}
+img{
+   transition: transform .2s;
+}
+img:hover{
+   transform: scale(0.9);
+}
